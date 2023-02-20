@@ -1,0 +1,8 @@
+Band Name generator Program 
+
+Program will ask for city name and pet name, then return the generated Band name by concatenating both the strings
+
+# Variable naming conventions
+* Try to use variable names which makes sense, to avoid confusion
+* Use Underscore to seperate words for single variable name  
+* Variable names cannot begin with number
