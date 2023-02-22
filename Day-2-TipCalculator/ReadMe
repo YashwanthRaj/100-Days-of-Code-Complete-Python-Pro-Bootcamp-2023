@@ -1,0 +1,15 @@
+Tip Calculator
+This progam takes in the price , tip percentage and number of people, and gives out the per head cost 
+
+This part covers Data types, Type conversion, Mathematical operations and f strings. 
+
+# Mathematical rules that computer follows PEMDAS
+Paranthesis
+Exponents
+Multiplication
+Division
+Addition
+Subtraction
+
+
+f" {}" - Allows to print multiple datatypes
