@@ -1,2 +1,11 @@
 Rock Paper Scissors Game
 With random module, we have created a game with which you can play Rock Paper Scissors Game with fair chance of winning.  
+
+This part covers Random module, Index Errors and Nested List.
+
+First import random module.
+random.randint(startNum, endNum) - Will generate random integer between start and end number specified
+random.random(startFloat, endFloat) - Will generate random float value between specified start and end
+
+List Data Structure
+L1 = [] -> Declaration 
