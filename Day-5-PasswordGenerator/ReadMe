@@ -1,0 +1,7 @@
+Password Generator 
+The program takes in Number of letters, symbols and numerical values as input and generates password according to parameters. 
+
+This part contains loops and range function.
+
+For Loops -> commonly used to iterate through a list or series 
+range function -> Generates range of functions to loop through. SYNTAX - range(a,b,c) - numbers from starting from a to b-1 with c step size
