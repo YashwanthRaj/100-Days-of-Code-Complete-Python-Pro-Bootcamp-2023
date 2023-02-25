@@ -1,0 +1,6 @@
+Hangman Game
+The program will select a random word from given list of words and we have to guess the word by typing each letter. 
+For every correct letter that we enter, the blanks will replaced by our guess. But if we enter a wrong letter, then we loose a life.
+
+
+from replit import clear -> clear functions clears the output window to imporve the UI of game 
