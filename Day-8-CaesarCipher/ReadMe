@@ -1,0 +1,9 @@
+Caesar Cipher
+The program either encodes or decodes the entered text according to the shift number entered
+
+Caesar Cipher - a way of encoding text messages. Usually done by having a key number and shifting the text alphabetically according to the key number
+
+Function Parameter -> The variable that is defined in () while declaring a function
+Function Arguement -> The actual value of the data that is assigned to the parameter
+
+ceil function from math module -> rounds to whole number
