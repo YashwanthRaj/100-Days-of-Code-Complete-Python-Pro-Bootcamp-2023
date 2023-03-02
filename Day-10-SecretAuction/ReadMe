@@ -1,0 +1,9 @@
+Secret Auction Program
+The program takes in the name and the auction amount, then returns the user with the highest bid
+
+
+Dictionary -> Stores Key value pair
+SYNTAX -> dict_name{key1:value1,key2:value2}
+
+The value can be replaced with list and another dictionary as well
+Multiple dictionaries inside list is also possible
