@@ -1,9 +1,9 @@
-Secret Auction Program
-The program takes in the name and the auction amount, then returns the user with the highest bid
+Calculator Program
+The code takes in numbers and the desired operation. Once completing the operation, it asks if we want to continue and if yes then it repeats the steps. 
 
 
-Dictionary -> Stores Key value pair
-SYNTAX -> dict_name{key1:value1,key2:value2}
+return -> used inside function to give out the result value, marks the exit of a function
+	    return without specifying any value will just return nothing, this is used if we want to return null value
 
-The value can be replaced with list and another dictionary as well
-Multiple dictionaries inside list is also possible
+docstring -> The comments that we enter between '''      ''''. This when entered in first line of function, will show the
+             contents of while declaration or function call as guidelines/instructions
