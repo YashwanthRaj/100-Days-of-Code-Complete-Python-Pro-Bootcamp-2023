@@ -1,1 +1,8 @@
+Blackjack [Capstone Project]
+Game Rules - Game played between two people. Or comp vs player. 
+Adding up number on cards, the sum not exceeding the number 21. If it exceeds, then you loose. At any point. whomever has the lowest number not exceeding 21, wins the game.
+If the sum adds up to a number less than 17, then they have to take another card. 
+The number cards count to their number itself. The face cards J, Q and K count as 10. The A counts as 11 until the sum is under 21, else it will count as 1.
+The person having least sum wins the game!!
 
+We have to create a game that playes against user and follows the above rules. 
