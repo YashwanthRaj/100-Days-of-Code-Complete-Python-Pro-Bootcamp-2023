@@ -1,0 +1,16 @@
+Number Guessing Game
+The computer selects a number that we have to guess. We have to correctly guess that number to win the game. Two difficulty levels are present. Easy level will give you 10 chances. Hard level will give you only 5 chances.
+With every guess entered by us, it should display low or high by comparing our guess and computers selected number. 
+
+
+Concepts: 
+Scope - Concept where variable/function is accessible within/outside defined area in code
+Local scope - Defined within function, not accessible outside the function
+Global scope - Defined globally, not inside any function. Accessible anywhere in file
+Namespace - Anything that we define and give name to. They have their own scope depending upon where they are defined
+Global Constant - A variable that is defined but value never changed. Declaration - Variable name must have all capital 
+
+*) If variable created within a function, then it is accessible only inside that function, it may have many nested function where it can be accessed. but not outside 
+*) If variable inside any loops, the it can be acced outside the loop 
+*) Can change global variable value inside a function by defing that inside the function using global keyword
+  
