@@ -1,0 +1,10 @@
+Debugging tips
+*) Describe the problem: What is the piece of code doing. Expected vs actual output. Access assumptions made.
+*) Reproduce the bug: Try and evaluate the output and find out in which parameter does the error occure.
+*) Play computer and evaluate each line: Look at each line of code and logic to find out the occurrence of bug. 
+*) Fix Errors/ Read Underlines: Always look out for red underlines and warnings and yellow flags, helps in preventing bugs.
+*) Use of print: Use print to determine and asses the output at each stage. 
+*) Use a debugger: Online visualizing tools will help us understand what is happening.
+*) Take a break
+*) Ask a friend
+*) Ask in online forums like Stackoverflow
