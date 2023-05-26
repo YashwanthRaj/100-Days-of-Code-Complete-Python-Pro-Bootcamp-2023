@@ -1,0 +1,5 @@
+Higher or Lower game
+
+Game starts with two celebrities. We have to determine which of then have higher number of followers. If we are correct then we will be displayed with another 
+set of celebrities. For each correct guess we will get a point. The game ends when we make a wrong guess. Finally the score is displayed indicating the number of 
+correct guess. 
