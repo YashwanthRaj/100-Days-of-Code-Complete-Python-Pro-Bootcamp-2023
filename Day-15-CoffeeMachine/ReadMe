@@ -1,0 +1,4 @@
+Coffee Machine
+Our Coffee Machine is going to make 3 hot coffee flavours. Espresso, Latte and Cappuccino. Each flavour require different quantity of water, coffee and milk. 
+And they are priced different as well. The machine has 3 containers for ingredients, which are Espresso, Latte and Cappuccino. The machine is coin operated, 
+there are 4 types of coins. The machine should print report depending upon the resources used. The program should exit when sufficient ingredients not available.
