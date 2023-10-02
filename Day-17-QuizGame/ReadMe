@@ -1,0 +1,11 @@
+True False Quiz Game
+The program will questions to user and we have to input True or False.
+
+Constructor: Allows us to specify what should happen when our object is being constructed. 
+self → denotes the object created.
+
+Inside this init function is where we create starting values for attributes. This function is going to be called every time an object is created. 
+If we want to create a method (function inside a class), we always have to include self as a parameter. 
+
+Concepts:
+Object-oriented programming - Self defined class and using Objects to use them 
