@@ -1,0 +1,20 @@
+Turtle Module - Used to draw graphics
+import module_name
+
+from module_name import * → This will import all the available class 
+from module_name import class_name → This will only import specific class
+import module_name as keyword_name → This will import the module class whose name we can use as keyword_name.
+
+There are many modules that comes with Python standard library, i.e it comes with the python language application. It has some basic packages. Those packages we can directly import and use it. 
+But other packages, we have to install and use it. We have to use the **pip install package_name** to install, and then import it in our program. 
+
+
+### Tuple
+Data Structure is very similar to a list, but only difference is it cannot be modified. Used when we don’t want any accidental changes. 
+
+**Declaration** → my_tuple = (1,2,3,4,5)
+**Accessing the index** → my_tuple[2]
+**To change tuple to list** → list(my_tuple)
+
+Concepts:-
+Turtle GUI , Tuple
